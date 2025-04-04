@@ -1,0 +1,23 @@
+{
+    "orders": [
+        {
+            "order_id": 1,
+            "exchange": "NSE",
+            "tradingsymbol": "HDFCBANK",
+            "transaction_type": "SELL",
+            "order_type": "LIMIT",
+            "quantity": 10,
+            "product": "MIS",
+            "price": 1800.0
+        },
+        {
+            "order_id": 2,
+            "exchange": "BSE",
+            "tradingsymbol": "TATAMOTORS",
+            "transaction_type": "BUY",
+            "order_type": "MARKET",
+            "quantity": 21,
+            "product": "CNC"
+        }
+    ]
+}
